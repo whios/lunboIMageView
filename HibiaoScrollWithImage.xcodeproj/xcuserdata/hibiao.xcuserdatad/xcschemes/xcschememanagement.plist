@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>HibiaoScrollWithImage.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1A39BC4A1CDE45FB00C3A68C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1A39BC5D1CDE45FB00C3A68C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1A39BC681CDE45FB00C3A68C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
